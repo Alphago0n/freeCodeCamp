@@ -25,3 +25,7 @@ Assembly language is primarily used in the following situations:
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
+<!---Meme Goes Here-->
+Here is a funny meme! (hover to see the title text):
+Meme: 
+![alt text](http://i.qkme.me/3u48x0.jpg "Version Control Management")
